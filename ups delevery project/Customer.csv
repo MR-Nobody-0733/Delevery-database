@@ -1,0 +1,101 @@
+﻿delivery_id,delivery_address,delivery_city,delivery_postal_code,delivery_date,cost,delivery_weight,delivery_package,status,customer_id,warehouse_id,truck_id,driver_id
+1,Suite 6393,Surrey,G1Q T8B,2025-01-23,317.68,412.16,61,Returned,73,6,19,16
+2,Appartment 846,Windsor,B6A Z9G,2024-07-16,782.59,19.25,14,Cancelled,82,7,21,19
+3,Suite 717,Kelowna,Q7W K5T,2024-05-06,28.97,362.83,2,Pending,77,7,20,20
+4,3rd Floor,St. John's,M9H V5V,2025-05-17,201.29,202.19,85,Returned,56,5,14,11
+5,APT 311,Halifax,J0X A2E,2024-05-09,824.32,118.17,1,Pending,21,2,6,8
+6,Customer Department,Edmonton,I9H T2H,2025-04-17,839.92,336.81,4,Delivered,56,5,14,11
+7,Pre Sales Department,Hamilton,T2F C9B,2024-08-18,1004.24,202.21,68,Out for Delivery,91,8,23,10
+8,3rd Floor,Edmonton,S4J F7O,2024-02-06,709.53,88.55,99,Pending,45,4,12,17
+9,Pre Sales Group,Kelowna,M9S P9S,2024-01-28,296.85,202.87,4,Cancelled,98,8,25,3
+10,Appartment 8,Hamilton,V4P V4U,2024-05-18,754.80,43.66,82,Returned,28,3,7,13
+11,Suite 52,Edmonton,D0L W6Y,2024-11-09,407.61,62.17,2,Delivered,30,3,8,13
+12,Suite 5526,Regina,Z9N P6H,2023-11-22,863.78,301.60,21,Pending,47,4,12,7
+13,7th Floor,Red Deer,N3B G0B,2024-05-08,21.76,353.63,3,Pending,64,6,16,14
+14,Suite 4,Ottawa,L1I J5G,2024-04-15,852.98,166.22,94,Out for Delivery,47,4,12,7
+15,Suite 2113,Edmonton,L7Z O9U,2024-09-13,266.61,476.59,60,Out for Delivery,99,8,25,3
+16,APT 6,Brampton,R9W K9X,2023-11-19,695.83,143.44,74,Delivered,4,1,1,4
+17,Suite 6208,Edmonton,P8V L2V,2025-05-26,433.03,416.11,00,Cancelled,87,7,22,2
+18,After Sales Department,Calgary,A8H L0P,2024-05-21,1023.42,297.33,46,Returned,100,8,25,3
+19,9th Floor,Regina,R5J N3H,2024-08-17,559.71,279.84,63,Cancelled,68,6,17,12
+20,Post Sales Department,St. John's,M7M F3X,2024-05-25,786.09,67.81,67,Returned,32,3,8,1
+21,Pre Sales Department,Calgary,Z4A S9T,2024-06-21,568.19,336.78,82,Returned,82,7,21,19
+22,Appartment 926,St. John's,K1L D6G,2023-11-29,315.19,272.43,98,Pending,85,7,22,19
+23,Foster Building,Quebec City,F9X M3Q,2024-12-24,943.07,33.53,2,Delivered,100,8,25,3
+24,Post Sales Department,Regina,Z0R J8I,2024-01-29,535.50,429.44,46,Delivered,4,1,1,4
+25,APT 43,Ottawa,L1O P9E,2024-07-15,575.66,322.91,8,Returned,70,6,18,12
+26,Suite 506,Halifax,K3M Y4V,2024-12-18,380.32,2.39,4,Out for Delivery,53,5,14,6
+27,Sales Group,Vancouver,V3Z O0Z,2025-01-18,664.14,245.97,69,Out for Delivery,94,8,24,10
+28,435th Floor,Halifax,E5Y D3K,2024-11-05,278.15,441.91,61,Pending,69,6,18,12
+29,3rd Floor,Kelowna,J9L V2J,2024-08-10,808.72,23.10,43,Delivered,55,5,14,6
+30,Lincoln Building,Quebec City,G6N S2T,2025-05-25,836.14,300.75,28,Out for Delivery,9,1,3,5
+31,Appartment 135,Red Deer,F8E G7G,2024-12-09,75.50,220.10,19,Pending,19,2,5,9
+32,1st Floor,Surrey,T2N C6B,2024-03-13,524.40,381.18,36,Out for Delivery,46,4,12,7
+33,Appartment 6,Windsor,R4A S1J,2024-11-26,87.78,242.43,01,Out for Delivery,30,3,8,13
+34,APT 44,Surrey,J3V D2Y,2025-01-12,825.74,405.65,3,Returned,99,8,25,3
+35,Suite 433,Windsor,T5E C7W,2024-10-10,994.93,148.34,27,Returned,65,6,17,14
+36,Anthony Building,Winnipeg,H1A F3E,2024-04-28,376.31,200.56,81,Delivered,77,7,20,20
+37,After Sales Department,Kelowna,U9U S3A,2024-09-25,422.52,115.09,7,Returned,4,1,1,4
+38,5th Floor,St. John's,W2I K1V,2025-05-08,675.81,162.39,22,Cancelled,39,4,10,15
+39,Suite 4428,Toronto,J5L D3Y,2024-06-11,589.86,366.31,9,Pending,35,3,9,1
+40,Suite 2855,Saskatoon,Y0P F5E,2024-11-14,238.93,397.32,1,Returned,96,8,24,3
+41,Sales Group,Edmonton,C6O R8N,2024-12-06,488.01,115.97,53,Cancelled,51,5,13,6
+42," Department",Brampton,A4B V9G,2024-04-30,626.94,437.27,8,Delivered,72,6,18,16
+43,Appartment 903,Calgary,P6Y U2Z,2024-04-11,900.95,215.03,7,Delivered,12,1,3,18
+44,Post Sales Department,Quebec City,Q3K J7E,2024-10-14,755.45,416.19,6,Pending,28,3,7,13
+45,Suite 4,Windsor,L1U C2H,2025-04-06,455.13,480.08,6,Pending,91,8,23,10
+46,Appartment 5,Montreal,P5K P5S,2023-12-21,1021.95,426.95,36,Cancelled,80,7,20,20
+47,Customer Department,Halifax,L1L U3S,2023-12-17,446.73,382.57,2,Delivered,34,3,9,1
+48,1st Floor,Saskatoon,T5Q E5R,2024-09-18,606.71,296.54,6,Cancelled,46,4,12,7
+49,2nd Floor,Quebec City,Z1T Q5D,2024-09-27,707.66,385.68,3,Returned,15,2,4,18
+50,Suite 19,Victoria,U7X K2R,2023-12-21,235.55,177.88,95,Cancelled,23,2,6,8
+51,Einstein Building,Hamilton,S9E T2I,2025-02-28,1006.62,37.41,39,Out for Delivery,42,4,11,17
+52,After Sales Department,Calgary,W0B G3C,2023-11-20,514.48,470.10,46,Returned,72,6,18,16
+53,6th Floor,Ottawa,N8Z R6F,2024-12-23,476.54,90.04,1,Cancelled,62,5,16,14
+54,Customer Group,Saskatoon,O2P D0E,2025-04-14,129.98,163.34,6,Cancelled,49,4,13,7
+55,Suite 7,Hamilton,O9A G8W,2023-11-15,243.56,215.73,7,Returned,20,2,5,9
+56,72th Floor,Edmonton,V0Y T0L,2024-12-22,3.49,139.73,77,Returned,88,8,22,2
+57,Pre Sales Group,Regina,O9H I3O,2024-12-21,889.53,485.72,3,Out for Delivery,83,7,21,19
+58,After Sales Group,Regina,P7U Q0S,2024-02-03,543.47,433.39,20,Delivered,74,6,19,16
+59,APT 66,Ottawa,E1D R8Z,2024-08-30,675.63,379.28,25,Returned,86,7,22,2
+60,Sales Department,Red Deer,C5V Z2G,2024-10-19,445.00,115.78,1,Returned,68,6,17,12
+61,29th Floor,Calgary,H5F F4H,2024-01-25,176.77,90.84,1,Out for Delivery,63,5,16,14
+62,3rd Floor,Winnipeg,E7U O0Q,2025-03-12,727.08,260.30,5,Pending,22,2,6,8
+63,Suite 65,Winnipeg,Y2Y A5J,2024-11-26,950.81,65.45,05,Delivered,90,8,23,2
+64," Department",Saskatoon,K8W H1R,2024-02-03,510.71,402.13,06,Delivered,90,8,23,2
+65,Roosevelt Building,Hamilton,S1F Z6M,2024-11-07,680.30,323.57,9,Cancelled,9,1,3,5
+66,2nd Floor,Regina,P5U A0T,2024-06-25,933.22,181.00,3,Out for Delivery,84,7,21,19
+67,38th Floor,Hamilton,I3I M4I,2024-05-25,777.00,59.16,3,Returned,18,2,5,9
+68,APT 2,Winnipeg,Y6A N7P,2024-09-24,246.03,447.99,59,Out for Delivery,65,6,17,14
+69,Suite 2,Quebec City,A0B M6I,2024-12-04,908.06,17.88,9,Out for Delivery,83,7,21,19
+70,Appartment 8,Kelowna,K0M N5H,2024-03-15,940.30,276.03,5,Returned,22,2,6,8
+71,Suite 97,Windsor,B1D H9N,2024-07-24,274.30,28.35,2,Cancelled,100,8,25,3
+72,APT 79,St. John's,W8F F6D,2023-11-15,807.23,253.71,4,Returned,49,4,13,7
+73,Suite 33,Vancouver,A9K O3M,2025-05-10,434.55,431.03,8,Cancelled,66,6,17,12
+74,APT 931,Kelowna,Q1K Q9O,2025-03-02,321.77,382.53,47,Cancelled,72,6,18,16
+75,Suite 8099,Halifax,K1Y L6A,2024-11-17,299.08,451.84,70,Pending,81,7,21,19
+76,Pre Sales Group,Quebec City,G8W B4H,2023-12-19,991.25,399.52,35,Delivered,11,1,3,18
+77,Appartment 6,Halifax,F6R N6W,2025-01-16,464.24,57.39,5,Delivered,73,6,19,16
+78,Washington Building,Toronto,J8J X4S,2024-01-08,188.61,117.34,79,Out for Delivery,72,6,18,16
+79," Group",Hamilton,X8R Z8I,2024-03-24,81.37,449.37,7,Delivered,13,2,4,18
+80,Customer Group,Kelowna,W4G O8V,2024-05-23,603.72,395.97,2,Out for Delivery,91,8,23,10
+81,Suite 247,Toronto,O3G F9W,2024-10-30,983.59,119.82,88,Returned,19,2,5,9
+82,8th Floor,Saskatoon,H9M C3S,2024-02-28,58.43,449.43,66,Delivered,48,4,12,7
+83,Customer Department,Toronto,U1N O2C,2023-12-07,620.50,56.23,1,Pending,55,5,14,6
+84,After Sales Department,Calgary,E4Q G5V,2024-06-18,574.16,345.22,5,Returned,33,3,9,1
+85,Washington Building,Brampton,I2Y O1Z,2024-01-23,879.53,263.33,26,Returned,68,6,17,12
+86,Roosevelt Building,Victoria,A6T W9H,2024-11-16,611.02,250.00,21,Out for Delivery,47,4,12,7
+87,Hamilton Building,Halifax,P1X N6M,2024-08-19,48.85,291.14,3,Cancelled,84,7,21,19
+88,After Sales Group,Quebec City,F7L Z1S,2025-01-12,1007.81,79.08,1,Delivered,81,7,21,19
+89,Appartment 3,Vancouver,V3E E3K,2024-12-25,583.17,189.91,2,Pending,80,7,20,20
+90,Suite 57,Surrey,E3V L8Q,2025-03-18,992.44,8.60,94,Pending,77,7,20,20
+91,Suite 2,Brampton,X7U N0T,2024-10-06,536.78,214.84,4,Out for Delivery,94,8,24,10
+92,Roosevelt Building,Halifax,Y9E F9C,2024-06-20,929.05,181.70,3,Out for Delivery,30,3,8,13
+93,Madison Building,Montreal,F6W D0T,2024-07-06,1.18,283.12,4,Cancelled,53,5,14,6
+94,APT 1,Toronto,J3C G7W,2025-01-20,145.86,250.52,79,Out for Delivery,67,6,17,12
+95,852th Floor,Quebec City,U8G I6Q,2024-08-17,63.16,306.47,40,Cancelled,34,3,9,1
+96,Appartment 18,Red Deer,L1G G6X,2025-02-23,810.93,355.68,7,Delivered,29,3,8,13
+97,Marshall Building,Saskatoon,S6S S0G,2024-11-02,726.14,371.81,8,Returned,83,7,21,19
+98,Truman Building,Hamilton,N5J B9S,2024-01-05,391.23,312.90,00,Pending,23,2,6,8
+99,Appartment 5,Surrey,O0G B0N,2025-05-06,76.15,92.61,27,Delivered,19,2,5,9
+100,1st Floor,Quebec City,O6Z Y7F,2024-08-08,571.92,299.08,45,Cancelled,7,1,2,5
