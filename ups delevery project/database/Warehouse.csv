@@ -1,0 +1,9 @@
+﻿warehouse_id,location,capacity,truck_id
+1,Calgary,5000m²,19
+2,Red Deer,750m²,21
+3,Saskatoon,750m²,20
+4,Toronto,750m²,14
+5,Kelowna,1500m²,6
+6,Kelowna,7500m²,14
+7,St. John's,500m²,23
+8,Victoria,1000m²,12

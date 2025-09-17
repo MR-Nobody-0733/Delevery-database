@@ -1,0 +1,26 @@
+﻿truck_id,truck_capacity,license_plate,current_status
+1,750kg,ULR9262,Available
+2,3T,AJW6808,In Transit
+3,1.5T,PGA9968,In Transit
+4,1.5T,QTB4009,Under Maintenance
+5,750kg,IUJ7816,Loading
+6,750kg,EPL5167,Unloading
+7,500kg,QHN4089,Unloading
+8,2T,UVY7747,In Transit
+9,2T,NEN3204,Delivered
+10,2T,XDF4633,Available
+11,1000kg,VPJ5733,Unloading
+12,750kg,YJX0801,In Transit
+13,1.5T,ENX6989,Loading
+14,7.5T,IXI4305,Available
+15,1000kg,TFQ7041,Delivered
+16,10T,IEA7311,Delivered
+17,500kg,VPZ4580,Delivered
+18,10T,LQY7463,Delivered
+19,5T,XLU7474,Under Maintenance
+20,7.5T,VXC1251,Under Maintenance
+21,3T,EHS8650,Delivered
+22,500kg,EUK7431,Available
+23,500kg,BXW6970,Unloading
+24,5T,JLM0544,Available
+25,750kg,GVN3796,In Transit
